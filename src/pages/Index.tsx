@@ -5,7 +5,7 @@ import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { toast } from '@/hooks/use-toast';
 
-const HERO_IMG = 'https://cdn.poehali.dev/projects/57f11db6-163f-49eb-a450-a3942b497b3d/files/655a64b2-df23-4376-9651-8157a0c6bbc7.jpg';
+const HERO_IMG = 'https://cdn.poehali.dev/projects/57f11db6-163f-49eb-a450-a3942b497b3d/files/93a56c51-e917-4457-8e6c-4f9b98e189d8.jpg';
 const CASE_IMG = 'https://cdn.poehali.dev/projects/57f11db6-163f-49eb-a450-a3942b497b3d/files/3597f396-9834-496c-88d7-3ef065fa80fb.jpg';
 const GRADIENT_IMG = 'https://cdn.poehali.dev/projects/57f11db6-163f-49eb-a450-a3942b497b3d/files/ec266dde-970a-46e1-b1de-607355cb10e1.jpg';
 
