@@ -104,7 +104,7 @@ const Index = () => {
           </div>
         </div>
         <div className="max-w-5xl mx-auto px-6 mt-16 animate-scale-in" style={{ animationDelay: '0.3s' }}>
-          <img src={HERO_IMG} alt="Аналитика" className="w-full rounded-[2rem] shadow-2xl shadow-black/10" />
+          <img src={HERO_IMG} alt="Аналитика" className="w-full h-[280px] md:h-[440px] object-cover rounded-[2rem] shadow-2xl shadow-black/10" />
         </div>
       </section>
 
